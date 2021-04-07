@@ -1,15 +1,15 @@
 # APP Restaurante
 
-Restaurante | ConfiguroWeb es una aplicaciÃ³n web que gestiona el orden del menÃº del restaurante entre el perfil mesero y el chef
+Restaurante | ConfiguroWeb es una aplicación web que gestiona el orden del menú del restaurante entre el perfil mesero y el chef
 
-## Comenzando ðŸš€
+## Comenzando 🚀
 
-_Estas instrucciones te permitirÃ¡n obtener una copia del proyecto en funcionamiento en tu mÃ¡quina local para propÃ³sitos de desarrollo y pruebas._
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu maquina local para propositos de desarrollo y pruebas._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
-### Pre-requisitos ðŸ“‹
+## Pre-requisitos 📋
 Con estos requisitos son necesarios para ejecutar el proyecto en un servidor local:
 
 * PHP 7.1 o superior
@@ -28,38 +28,38 @@ Con estos requisitos son necesarios para ejecutar el proyecto en un servidor loc
     [Enlace de Descarga XAMPP](https://www.apachefriends.org/es/download.html)
 
 
-### InstalaciÃ³n ðŸ”§
+### Instalación 🔧
 Nota: Recuerde Descargar el proyecto del repositorio
 ![image](https://user-images.githubusercontent.com/28444922/113646567-ada7c180-964e-11eb-9742-35b4060b9625.png)
 
 **1. Instalamos XAMPP**
 
- 1.1 Iniciar el asistente de instalaciÃ³n.
-   * Aparecera la pantalla de inicio del asistente para instalar XAMPP. Para ajustar las   configuraciones de la instalaciÃ³n se hace clic en â€œNextâ€?
+ 1.1 Iniciar el asistente de instalación.
+   * Aparecera la pantalla de inicio del asistente para instalar XAMPP. Para ajustar las   configuraciones de la instalación se hace clic en “Next”.
  	
- 1.2 SelecciÃ³n de los componentes del software
-   * Se recomienda la configuraciÃ³n estÃ¡ndar para un servidor de prueba local, con la cual se instalan todos los componentes disponibles. Confirma la selecciÃ³n     haciendo clic en â€œNextâ€?
+ 1.2 Selección de los componentes del software
+   * Se recomienda la configuración estándar para un servidor de prueba local, con la cual se instalan todos los componentes disponibles. Confirma la selección     haciendo clic en “Next”.
    
- 1.3 SelecciÃ³n del directorio para la instalaciÃ³n
-   * Se escoge el directorio donde se instalarÃ¡ el paquete. Si se ha escogido la configuraciÃ³n estÃ¡ndar se crearÃ¡ una carpeta con el nombre XAMPP en C:\.
+ 1.3 Selección del directorio para la instalación
+   * Se escoge el directorio donde se instalará el paquete. Si se ha escogido la configuración estándar se creará una carpeta con el nombre XAMPP en C:\.
    
- 1.4 Iniciar el proceso de instalaciÃ³n
+ 1.4 Iniciar el proceso de instalación
    * El asistente extrae los componentes seleccionados y los guarda en el directorio escogido en un proceso que puede durar algunos minutos.
 	
  1.5 Configurar Firewall
-   * Durante el proceso de instalaciÃ³n es frecuente que el asistente avise del bloqueo de Firewall. En la ventana de diÃ¡logo puedes marcar las casillas correspondientes para permitir la comunicaciÃ³n del servidor Apache en una red privada o en una red de trabajo. Recuerda que no se recomienda usarlo en una red pÃºblica.
+   * Durante el proceso de instalación es frecuente que el asistente avise del bloqueo de Firewall. En la ventana de diálogo puedes marcar las casillas correspondientes para permitir la comunicación del servidor Apache en una red privada o en una red de trabajo. Recuerda que no se recomienda usarlo en una red pública.
    
- 1.6 Cerrar la instalaciÃ³n
-   * Una vez extraÃ­dos e instalados todos los componentes puedes cerrar el asistente con la tecla â€œFinishâ€?
+ 1.6 Cerrar la instalación
+   * Una vez extraídos e instalados todos los componentes puedes cerrar el asistente con la tecla “Finish”.
    
  1.7 Panel de control de XAMPP
-   * En la interfaz de usuario del panel de control se protocolan todas las acciones y es posible activar o desactivar los mÃ³dulos por separado con un simple clic.
+   * En la interfaz de usuario del panel de control se protocolan todas las acciones y es posible activar o desactivar los módulos por separado con un simple clic.
  
- 1.8 Iniciar mÃ³dulos
-   * En la parte superior se pueden iniciar o interrumpir los mÃ³dulos de XAMPP por separado mediante los comandos â€œStartâ€?y â€œStopâ€?bajo â€œActionsâ€?
+ 1.8 Iniciar módulos
+   * En la parte superior se pueden iniciar o interrumpir los módulos de XAMPP por separado mediante los comandos “Start” y “Stop” bajo “Actions”.
  
  1.9 phpMyAdmin
-   * Haciendo clic en la tecla â€œAdminâ€?de la base de datos se abre phpMyAdmin, donde se pueden administrar las bases de datos del proyecto web que se quiere probar con XAMPP. 
+   * Haciendo clic en la tecla “Admin” de la base de datos se abre phpMyAdmin, donde se pueden administrar las bases de datos del proyecto web que se quiere probar con XAMPP.  
 
 ## Despliegue ðŸ“¦
 Para el despliegue en el servidor local:
