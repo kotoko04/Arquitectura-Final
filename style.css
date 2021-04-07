@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans);
+
+*{
+  border:0;
+  margin: 0;
+  padding: 0;
+  font-family: "Fira Sans";
+  text-decoration: none;
+  list-style: none;
+}
+
+.fondo{
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(../Arquitectura_Restaurante/image/comida-rapida-casera.jpg);
+  opacity: .9; 
+}
+
+.e1{
+  color: white;
+  padding-top:10px;
+  padding-bottom: 10px;
+  background-color: rgba(0, 0, 0, .6);
+  font-size: 25px;
+}
+
+
+body .canvas, html .canvas {
+  width: 600px;
+  height: 400px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0px 0px 20px 1px #bbb;
+}
+
+a {
+  color: white;
+  width: 200px;
+  height: 100px;
+  background: #1f1c1c;
+  margin: 30px;
+  top: 100px;
+  padding: 16px;
+  font-size: 40px;
+  border-radius: 10px;
+  box-shadow: 0px 15px 0px 0px #f02046, 0px 0px 20px 0px #bbb;
+  transition: all 0.2s;
+}
+
+a:active {
+  top: 108px;
+  box-shadow: 0px 7px 0px 0px #381ecc;
+}
