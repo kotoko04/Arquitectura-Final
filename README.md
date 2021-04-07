@@ -96,5 +96,5 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 * **Mauricio Sevilla Britto** - *Creador* - [Mauricio Sevilla Britto](https://github.com/configuroweb)
 * **Leabiv Leonardo Rivera Cardenas** - *Colaborador de Documentación e Instalación* - [Leabiv](https://github.com/leabiv)
-* **Diana Lucia León Figueroa** - * Colaborador de Frontend* - [Kotoko04](https://github.com/kotoko04)
+* **Diana Lucia León Figueroa** - *Colaborador de Frontend* - [Kotoko04](https://github.com/kotoko04)
 * **Jarbir Stewart Mejia** - *Colaborador de Documentación* - [jarbirS](https://github.com/jarbirS)
