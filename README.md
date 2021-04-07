@@ -61,7 +61,7 @@ Nota: Recuerde Descargar el proyecto del repositorio
  1.9 phpMyAdmin
    * Haciendo clic en la tecla “Admin” de la base de datos se abre phpMyAdmin, donde se pueden administrar las bases de datos del proyecto web que se quiere probar con XAMPP.  
 
-## Despliegue ðŸ“¦
+## Despliegue 📦
 Para el despliegue en el servidor local:
 1. Se descarga el proyecto del repositorio
 2. Se descomprime y se mueve el proyecto a la carpeta C:\xampp\htdocs 
@@ -69,7 +69,8 @@ Para el despliegue en el servidor local:
 4. Por ultimo http://localhost/Arquitectura_Restaurante-main/index.php
 > Para el despliegue en el servidor
 
-## Construido con ðŸ› ï¸?
+
+## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
@@ -77,23 +78,23 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
-## Contribuyendo ðŸ–‡ï¸?
+## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro cÃ³digo de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
-## Wiki ðŸ“–
+## Wiki 📖
 
-Puedes encontrar mucho mÃ¡s de cÃ³mo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
 
-## Versionado ðŸ“Œ
+## Versionado 📌
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
-## Autores âœ’ï¸
+## Autores ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Mauricio Sevilla Britto** - *Creador* - [Mauricio Sevilla Britto](https://github.com/configuroweb)
-* **Leabiv Leonardo Rivera Cardenas** - *Colaborador de DocumentaciÃ³n e InstalaciÃ³n* - [Leabiv](https://github.com/leabiv)
-* **Diana Lucia LeÃ³n Figueroa** - * Colaborador de Frontend* - [Kotoko04](https://github.com/kotoko04)
-* **Jarbir Stewart Mejia** - *Colaborador de DocumentaciÃ³n* - [jarbirS](https://github.com/jarbirS)
+* **Leabiv Leonardo Rivera Cardenas** - *Colaborador de Documentación e Instalación* - [Leabiv](https://github.com/leabiv)
+* **Diana Lucia León Figueroa** - * Colaborador de Frontend* - [Kotoko04](https://github.com/kotoko04)
+* **Jarbir Stewart Mejia** - *Colaborador de Documentación* - [jarbirS](https://github.com/jarbirS)
